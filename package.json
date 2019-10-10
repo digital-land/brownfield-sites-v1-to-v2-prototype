@@ -1,0 +1,22 @@
+{
+  "name": "brownfield-sites-v1-to-v2-prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digital-land/brownfield-sites-v1-to-v2-prototype.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digital-land/brownfield-sites-v1-to-v2-prototype/issues"
+  },
+  "homepage": "https://github.com/digital-land/brownfield-sites-v1-to-v2-prototype#readme",
+  "dependencies": {
+    "csv": "^5.1.3"
+  }
+}
